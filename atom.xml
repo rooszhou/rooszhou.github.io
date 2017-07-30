@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-07-30T06:25:39.000Z</updated>
+  <updated>2017-07-30T14:15:20.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,26 +16,43 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2017/07/30/hello-world/"/>
-    <id>http://yoursite.com/2017/07/30/hello-world/</id>
-    <published>2017-07-30T06:25:39.000Z</published>
-    <updated>2017-07-30T06:25:39.000Z</updated>
+    <title>new</title>
+    <link href="http://yoursite.com/2017/07/30/new/"/>
+    <id>http://yoursite.com/2017/07/30/new/</id>
+    <published>2017-07-30T14:13:27.000Z</published>
+    <updated>2017-07-30T14:15:20.000Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+    <content type="html"><![CDATA[<h3 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h3><ul>
+<li>信息来自于 LET，Quadcone 在测试新的 XEN 机器，限时注册送 5 美金，机器最低每个月 1.67 刀，每小时 0.00224 刀</li>
+<li><a href="https://cloudcone.com/cloud-servers/" title="价格明细" target="_blank" rel="external">价格明细</a></li>
+<li><a href="https://app.cloudcone.com/signup" title=" 注册地址 " target="_blank" rel="external"> 注册地址 </a>优惠码：<code>LAUNCHFEVER</code></li>
+<li>开通小鸡挺快的，密码在邮箱里，IP 界面可见，类似 DO 的后台界面<a id="more"></a>
+</li>
+</ul>
+<h3 id="最新更新"><a href="#最新更新" class="headerlink" title="最新更新"></a>最新更新</h3><ul>
+<li><p>官方发邮件给了以下优惠：简单来说就是，写一篇 CloudCone 介绍或者测评的博客文章（在其他网站也可以），然后就会给你 2 美金的余额！</p>
+<figure class="highlight markdown"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">Thanks for signing up on CloudCone! We hope you're enjoying our new cloud services stack.</div><div class="line">We want to give you a chance to earn some free credits on us. All you have to do is write a review </div><div class="line">about CloudCone on your blog or another website and send us the link. We'll add $2 of free cloud credits to your account.</div><div class="line">That's almost 2 months of free service.</div></pre></td></tr></table></figure>
+</li>
+</ul>
+<h3 id="最低配置"><a href="#最低配置" class="headerlink" title="最低配置"></a>最低配置</h3><ul>
+<li>最低配为 1 核，256M 内存，5G 硬盘，1 IPv4，月付 1.67 刀。<br><code>架构为 XEN-PV，半虚拟化，似乎无法换内核</code></li>
+</ul>
+<p><img src="http://ww1.sinaimg.cn/large/ab67759agy1fi0stnqxs1j20uc0igjsx.jpg" alt=""></p>
+<h4 id="开通中"><a href="#开通中" class="headerlink" title="开通中"></a>开通中</h4><p><img src="http://ww1.sinaimg.cn/large/ab67759agy1fi0tiwql4zj20si0demx9.jpg" alt=""></p>
+<h4 id="后台界面可以看到-IP"><a href="#后台界面可以看到-IP" class="headerlink" title="后台界面可以看到 IP"></a>后台界面可以看到 IP</h4><p><img src="http://ww1.sinaimg.cn/large/ab67759agy1fi0tlsan34j20v00fz0u4.jpg" alt=""></p>
+<h3 id="网络情况"><a href="#网络情况" class="headerlink" title="网络情况"></a>网络情况</h3><ul>
+<li>洛杉矶 multacom: 173.82.2.222</li>
+<li>带宽在 100Mbps 的样子<br><img src="http://ww1.sinaimg.cn/large/ab67759agy1fi0tnxzowkj20ex0cxgm4.jpg" alt=""></li>
+</ul>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      &lt;h3 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;信息来自于 LET，Quadcone 在测试新的 XEN 机器，限时注册送 5 美金，机器最低每个月 1.67 刀，每小时 0.00224 刀&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://cloudcone.com/cloud-servers/&quot; title=&quot;价格明细&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;价格明细&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://app.cloudcone.com/signup&quot; title=&quot; 注册地址 &quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt; 注册地址 &lt;/a&gt;优惠码：&lt;code&gt;LAUNCHFEVER&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;开通小鸡挺快的，密码在邮箱里，IP 界面可见，类似 DO 的后台界面
     
     </summary>
     
